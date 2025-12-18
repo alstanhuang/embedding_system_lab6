@@ -1,1 +1,1 @@
-# embedding_system_lab6
+Please setup ADC (ADC1) triggered by timer (TIM1) to sample the signal of STM32 internal temperature sensor at a fixed frequency and generating an interrupt when each conversion finishes. You have to determine the trigger frequency (explain to TA what the parameters you set), and interrupts should inform the RTOS task to print the sensor values out through UART.
